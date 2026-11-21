@@ -5,6 +5,12 @@ These are loose scripts I originally used on a couple music videos recently whic
 
 https://github.com/user-attachments/assets/b3c5dd24-5d52-4a02-940a-746f75e224be
 
+
+
+https://github.com/user-attachments/assets/32b33f75-1fa8-444a-a790-9e2772e6a668
+
+
+
 <img width="669" height="469" alt="2026-11-20-16-13-19 00_00_43_11" src="https://github.com/user-attachments/assets/d04b7e5d-3273-4598-9a26-912ffd012b45" />
 
 <img width="991" height="688" alt="image" src="https://github.com/user-attachments/assets/3f8572bd-7d4c-4bd4-bb25-03a8e112652b" />
