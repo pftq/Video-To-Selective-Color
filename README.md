@@ -3,7 +3,15 @@ Gives your video a black-and-white look with a few objects left in color or sepi
 
 These are loose scripts I originally used on a couple music videos recently which I went ahead to package into something more reusable.
 
-Download here: https://github.com/pftq/Video-To-Selective-Color/releases/tag/20261120
+Download here: https://github.com/pftq/Video-To-Selective-Color/releases/tag/20261120<br>
+You may also find these useful (one-click to download all [here](https://drive.google.com/drive/folders/1nvQFC5uwsZlf-82LuskCP-qut9xHw-lt?usp=sharing)):\
+• [Video Debanding](https://github.com/pftq/Video-Debanding) (fixes quality issues with repeat re-processing/compression)\
+• [Video Compare](https://github.com/pftq/Video-Compare) (to check export errors, differences, etc)\
+• [MP4 Audio Delay Fix](https://github.com/pftq/MP4-Audio-Delay-Fix) (20ms delay at start of file)\
+• [Video Frame Sync](https://github.com/pftq/Video-Frame-Sync) (syncing 2 files that drift out of sync)\
+• [Video Color Match](https://github.com/pftq/VideoColorMatch) (correcting color grading drift)\
+• [Video Splicer](https://github.com/pftq/Video-Splicer) (trim or join MP4s without re-encoding)\
+• [Screencaps Generator](https://github.com/pftq/Screencaps-Generator) (smart screencaps selection + gallery grid sheet)
 
 
 https://github.com/user-attachments/assets/b3c5dd24-5d52-4a02-940a-746f75e224be
