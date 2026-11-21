@@ -3,6 +3,9 @@ Gives your video a black-and-white look with a few objects left in color or sepi
 
 These are loose scripts I originally used on a couple music videos recently which I went ahead to package into something more reusable.
 
+Download here: https://github.com/pftq/Video-To-Selective-Color/releases/tag/20261120
+
+
 https://github.com/user-attachments/assets/b3c5dd24-5d52-4a02-940a-746f75e224be
 
 
