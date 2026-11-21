@@ -18,6 +18,9 @@ https://github.com/user-attachments/assets/32b33f75-1fa8-444a-a790-9e2772e6a668
 
 <img width="991" height="688" alt="image" src="https://github.com/user-attachments/assets/3f8572bd-7d4c-4bd4-bb25-03a8e112652b" />
 
+It works on still images too.
+<img width="669" height="469" alt="AlbumArt" src="https://github.com/user-attachments/assets/d0490771-eb0d-498b-ac40-f8578837e613" />
+
 
 Credits
 - [Python](https://www.python.org/), application runtime
